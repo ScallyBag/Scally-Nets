@@ -1,5 +1,5 @@
   
-Smaller / Weaker NETs provided by Alan Cooper (Al) aka Scally, for use as Levels for Human Play for Picochess or any Chess GUI
+Smaller / Weaker Zahak NETs by Alan Cooper (Al) aka Scally, for use as Levels for Human Play for Picochess or any Chess GUI
   
 These were all built on a Raspberry Pi 4 booted from a SD Drive with a M.2 backup drive using the latest Zahak Engine to generate the EPDs, Cutechess & Zahak to produce the PGNs, fengen to produce the FENs & zahak-trainer to produce the new NETs 
  
@@ -33,26 +33,26 @@ Learning Rate (LR) 0.01 unless stated otherwise
   
 All grades based on Zahak v0.2.1 @1824 elo  
 epoch-6.nnue   4e:  2289.1 elo  
-epoch-49.nnue  4d:  2189.7 elo [Scally2200.nnue]  
-epoch-9.nnue   4d:  2017.5 elo [Scally2000.nnue]  
+epoch-49.nnue  4d:  2189.7 elo [Scally2200.nn]  
+epoch-9.nnue   4d:  2017.5 elo [Scally2000.nn]  
 epoch-5.nnue   4e:  2011.2 elo  
 epoch-5.5.nnue 4f:  1891 elo (LR of 0.001 restarted from epoch-5)  
 epoch-4.nnue   4d:  1884.6 elo  
 epoch-4.nnue   4e:  1837.4 elo (appeared weaker on subsequent tests so not used)  
-epoch-5.nnue   4d:  1833.8 elo [Scally1800.nnue]  
+epoch-5.nnue   4d:  1833.8 elo [Scally1800.nn]  
 (Zahak v0.2.1 ----- @1824 elo)  
 epoch-6.nnue   4f:  1807.6 elo (appeared weaker on subsequent tests so not used)  
 epoch-5.3.nnue 4f:  1781.8 elo (LR of 0.001 restarted from epoch-5)  
 epoch-3.7.nnue 4e:  1753.7 elo (LR of 0.001 restarted from epoch-3)  
 epoch-3.6.nnue 4e:  1695.2 elo (LR of 0.001 restarted from epoch-3)  
 epoch-3.5.nnue 4e:  1683   elo (LR of 0.001 restarted from epoch-3)  
-epoch-5.nnue   4f:  1596.1 elo [Scally1600.nnue]  
+epoch-5.nnue   4f:  1596.1 elo [Scally1600.nn]  
 epoch-3.nnue   4d:  1586   elo  
 epoch-3.nnue   4e:  1515.5 elo  
-epoch-4.nnue   4f:  1421.8 elo [Scally1400.nnue]  
+epoch-4.nnue   4f:  1421.8 elo [Scally1400.nn]  
 epoch-2.nnue   4d:  1212   elo (appeared weaker on subsequent tests so not used)  
 epoch-3.nnue   4f:   959   elo  
-epoch-2.nnue   4e:  1108.5 elo [Scally1100.nnue]  
+epoch-2.nnue   4e:  1108.5 elo [Scally1100.nn]  
    
   
 
